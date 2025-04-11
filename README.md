@@ -42,9 +42,3 @@ To set up and run the project locally, ensure you have the following installed:
 
 ---
 
-## Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/municipal-vehicle-tracking.git
-   cd municipal-vehicle-tracking
